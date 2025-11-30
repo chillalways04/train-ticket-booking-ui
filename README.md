@@ -146,16 +146,16 @@ A complete UX/UI case study and high-fidelity mobile app design for a train tick
 | Caption | Inter | Light | 12px |
 
 ### Components
-Below are core UI components extracted from the Figma prototype. All images are located in `screenshots/components/`.
+Below are core UI components extracted from the Figma prototype. All images are located in `components`.
 
 | Component | Image | Description |
 |-----------|------|-------------|
-| **Primary Button** | ![Primary Button](screenshots/components/button-primary.png) | ใช้สำหรับ action หลัก เช่น “เข้าสู่ระบบ”, “ค้นหา” |
-| **Input Field** | ![Input Field](screenshots/components/input-field.png) | ช่องกรอกข้อมูล พร้อมเส้นขอบที่เน้นสถานะ focus |
-| **Train Ticket Card** | ![Ticket Card](screenshots/components/ticket-card.png) | การ์ดแสดงข้อมูลตั๋ว เช่น เส้นทาง โค้ชที่นั่ง สถานะ |
-| **Seat Legend** | ![Seat Legend](screenshots/components/seat-legend.png) | แสดงไอคอนที่นั่งพร้อมสี: ว่าง, สำหรับชาย, สำหรับหญิง, สำหรับพระ, ไม่ว่าง |
-| **Navigation Bar** | ![Navigation Bar](screenshots/components/nav-bar.png) | แถบล่างสำหรับนำทางไปหน้า Home, My Tickets, Notifications, Account |
-| **QR Ticket Card** | ![QR Ticket](screenshots/components/qr-ticket.png) | การ์ดตั๋วพร้อม QR code สำหรับสแกนขึ้นรถไฟ |
+| **Primary Button** | ![Primary Button](components/button-primary.png) | ใช้สำหรับ action หลัก เช่น “เข้าสู่ระบบ”, “ค้นหา” |
+| **Input Field** | ![Input Field](components/input-field.png) | ช่องกรอกข้อมูล พร้อมเส้นขอบที่เน้นสถานะ focus |
+| **Train Ticket Card** | ![Ticket Card](components/ticket-card.png) | การ์ดแสดงข้อมูลตั๋ว เช่น เส้นทาง โค้ชที่นั่ง สถานะ |
+| **Seat Legend** | ![Seat Legend](components/seat-legend.png) | แสดงไอคอนที่นั่งพร้อมสี: ว่าง, สำหรับชาย, สำหรับหญิง, สำหรับพระ, ไม่ว่าง |
+| **Navigation Bar** | ![Navigation Bar](/components/nav-bar.png) | แถบล่างสำหรับนำทางไปหน้า Home, My Tickets, Notifications, Account |
+| **QR Ticket Card** | ![QR Ticket](components/qr-ticket.png) | การ์ดตั๋วพร้อม QR code สำหรับสแกนขึ้นรถไฟ |
 
 
 
