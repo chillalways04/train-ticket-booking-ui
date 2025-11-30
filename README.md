@@ -93,8 +93,9 @@ The design includes 30+ high-fidelity screens with a clean, modern style.
 
 ---
 
-## 🔗 Figma Prototype
-https://www.figma.com/design/W3cm8DGf5cbph58miAZe3I/Train?node-id=0-1
+
+## 🔗 Figma Prototype  
+https://www.figma.com/design/W3cm8DGf5cbph58miAZe3I/Train?node-id=0-1&t=6jFt9IMuThBU2kMf-1
 
 ---
 
