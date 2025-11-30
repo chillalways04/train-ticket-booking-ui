@@ -127,14 +127,14 @@ A complete UX/UI case study and high-fidelity mobile app design for a train tick
 
 ## 🎨 Design System
 
-### Color Palette (จาก Figma จริง)
-| Type      | Color Preview | Hex      |
-|-----------|---------------|---------|
-| Primary   | ![#8FC1E9](https://via.placeholder.com/15/8FC1E9/000000?text=+) | `#8FC1E9` |
-| Light Blue| ![#EEF3FA](https://via.placeholder.com/15/EEF3FA/000000?text=+) | `#EEF3FA` |
-| Card BG   | ![#FAFAFA](https://via.placeholder.com/15/FAFAFA/000000?text=+) | `#FAFAFA` |
-| Divider   | ![#CAD3DC](https://via.placeholder.com/15/CAD3DC/000000?text=+) | `#CAD3DC` |
-| Text Dark | ![#8C8A8B](https://via.placeholder.com/15/8C8A8B/000000?text=+) | `#8C8A8B` |
+| Type        | Color Preview | Hex      |
+|-------------|---------------|---------|
+| Primary     | ![Primary Color](screenshots/colors/primary.png) | `#8FC1E9` |
+| Light Blue  | ![Light Blue](screenshots/colors/light_blue.png) | `#EEF3FA` |
+| Card BG     | ![Card BG](screenshots/colors/card_bg.png) | `#FAFAFA` |
+| Divider     | ![Divider](screenshots/colors/divider.png) | `#CAD3DC` |
+| Text Dark   | ![Text Dark](screenshots/colors/text_dark.png) | `#8C8A8B` |
+
 
 ### Typography
 | Style | Font | Weight | Size |
