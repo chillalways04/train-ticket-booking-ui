@@ -109,6 +109,15 @@ This UI project demonstrates:
 - Clean component-based mobile UI  
 
 Perfect for a **UX/UI portfolio** or **front-end showcase**.
+## ❗ Problems & Solutions
 
+### Problem 1: Long booking process
+**Solution:** Combine search → seat → payment into a guided step-by-step flow.
+
+### Problem 2: No real-time tracking
+**Solution:** Add GPS tracking with live map and train status updates.
+
+### Problem 3: Confusing payment confirmation
+**Solution:** Redesign success screen with clear messages & ticket access.
 
 
