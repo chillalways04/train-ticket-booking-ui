@@ -129,11 +129,11 @@ A complete UX/UI case study and high-fidelity mobile app design for a train tick
 
 | Type        | Color Preview | Hex      |
 |-------------|---------------|---------|
-| Primary     | ![Primary Color](screenshots/colors/primary.png) | `#8FC1E9` |
-| Light Blue  | ![Light Blue](screenshots/colors/light_blue.png) | `#EEF3FA` |
-| Card BG     | ![Card BG](screenshots/colors/card_bg.png) | `#FAFAFA` |
-| Divider     | ![Divider](screenshots/colors/divider.png) | `#CAD3DC` |
-| Text Dark   | ![Text Dark](screenshots/colors/text_dark.png) | `#8C8A8B` |
+| Primary     | ![Primary Color](colors/primary.png) | `#8FC1E9` |
+| Light Blue  | ![Light Blue](colors/light_blue.png) | `#EEF3FA` |
+| Card BG     | ![Card BG](colors/card_bg.png) | `#FAFAFA` |
+| Divider     | ![Divider](colors/divider.png) | `#CAD3DC` |
+| Text Dark   | ![Text Dark](colors/text_dark.png) | `#8C8A8B` |
 
 
 ### Typography
