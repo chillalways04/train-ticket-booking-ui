@@ -120,4 +120,44 @@ Perfect for a **UX/UI portfolio** or **front-end showcase**.
 ### Problem 3: Confusing payment confirmation
 **Solution:** Redesign success screen with clear messages & ticket access.
 
+# train-ticket-booking-ui
+
+A complete UX/UI case study and high-fidelity mobile app design for a train ticket booking and real-time tracking system, created using Figma.
+
+---
+
+## 🎨 Design System
+
+### Color Palette (จาก Figma จริง)
+| Type      | Color Preview | Hex      |
+|-----------|---------------|---------|
+| Primary   | ![#8FC1E9](https://via.placeholder.com/15/8FC1E9/000000?text=+) | `#8FC1E9` |
+| Light Blue| ![#EEF3FA](https://via.placeholder.com/15/EEF3FA/000000?text=+) | `#EEF3FA` |
+| Card BG   | ![#FAFAFA](https://via.placeholder.com/15/FAFAFA/000000?text=+) | `#FAFAFA` |
+| Divider   | ![#CAD3DC](https://via.placeholder.com/15/CAD3DC/000000?text=+) | `#CAD3DC` |
+| Text Dark | ![#8C8A8B](https://via.placeholder.com/15/8C8A8B/000000?text=+) | `#8C8A8B` |
+
+### Typography
+| Style | Font | Weight | Size |
+|------|------|-------|------|
+| H1   | Inter | Bold | 24px |
+| H2   | Inter | Semi-Bold | 20px |
+| Body | Inter | Regular | 16px |
+| Caption | Inter | Light | 12px |
+
+### Components
+Below are core UI components extracted from the Figma prototype. All images are located in `screenshots/components/`.
+
+| Component | Image | Description |
+|-----------|------|-------------|
+| **Primary Button** | ![Primary Button](screenshots/components/button-primary.png) | ใช้สำหรับ action หลัก เช่น “เข้าสู่ระบบ”, “ค้นหา” |
+| **Input Field** | ![Input Field](screenshots/components/input-field.png) | ช่องกรอกข้อมูล พร้อมเส้นขอบที่เน้นสถานะ focus |
+| **Train Ticket Card** | ![Ticket Card](screenshots/components/ticket-card.png) | การ์ดแสดงข้อมูลตั๋ว เช่น เส้นทาง โค้ชที่นั่ง สถานะ |
+| **Seat Legend** | ![Seat Legend](screenshots/components/seat-legend.png) | แสดงไอคอนที่นั่งพร้อมสี: ว่าง, สำหรับชาย, สำหรับหญิง, สำหรับพระ, ไม่ว่าง |
+| **Navigation Bar** | ![Navigation Bar](screenshots/components/nav-bar.png) | แถบล่างสำหรับนำทางไปหน้า Home, My Tickets, Notifications, Account |
+| **QR Ticket Card** | ![QR Ticket](screenshots/components/qr-ticket.png) | การ์ดตั๋วพร้อม QR code สำหรับสแกนขึ้นรถไฟ |
+
+
+
+
 
