@@ -108,7 +108,6 @@ This UI project demonstrates:
 - Real-time train tracking UX  
 - Clean component-based mobile UI  
 
-Perfect for a **UX/UI portfolio** or **front-end showcase**.
 ## ❗ Problems & Solutions
 
 ### Problem 1: Long booking process
