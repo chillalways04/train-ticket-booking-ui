@@ -4,7 +4,7 @@ A complete UX/UI case study and high-fidelity mobile app design for a train tick
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 This project features a full mobile app design flow, including:
 
 - User login & registration  
@@ -19,15 +19,15 @@ The design includes 30+ high-fidelity screens with a clean, modern style.
 
 ---
 
-## 🧭 User Flow
+## User Flow
 
 ---
 
-## 🖼️ UI Screenshots
+## UI Screenshots
 
 > All images are located in the `/screenshots/` folder.
 
-### 🔐 Authentication
+### Authentication
 **Login**  
 ![Login](screenshots/login.png)
 
@@ -36,12 +36,12 @@ The design includes 30+ high-fidelity screens with a clean, modern style.
 
 ---
 
-### 🏠 Dashboard
+### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
 ---
 
-### 🚆 Booking Flow
+### Booking Flow
 
 **Search Trip**  
 ![Search Trip](screenshots/search-trip.png)
@@ -60,7 +60,7 @@ The design includes 30+ high-fidelity screens with a clean, modern style.
 
 ---
 
-### 💳 Payment
+### Payment
 
 **Payment**  
 ![Payment](screenshots/payment.png)
@@ -70,7 +70,7 @@ The design includes 30+ high-fidelity screens with a clean, modern style.
 
 ---
 
-### 📍 Real-Time Tracking
+### Real-Time Tracking
 
 **Tracking**  
 ![Tracking](screenshots/tracking.png)
@@ -80,12 +80,12 @@ The design includes 30+ high-fidelity screens with a clean, modern style.
 
 ---
 
-### 🎫 QR Ticket
+### QR Ticket
 ![QR Ticket](screenshots/Qticket.png)
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 - Figma (UI Design & Prototyping)
 - Wireframing & UX Planning
 - Component-based UI
@@ -94,12 +94,12 @@ The design includes 30+ high-fidelity screens with a clean, modern style.
 ---
 
 
-## 🔗 Figma Prototype  
+## Figma Prototype  
 https://www.figma.com/design/W3cm8DGf5cbph58miAZe3I/Train?node-id=0-1&t=6jFt9IMuThBU2kMf-1
 
 ---
 
-## ⭐ Summary
+## Summary
 This UI project demonstrates:
 
 - UX flow design  
@@ -108,7 +108,7 @@ This UI project demonstrates:
 - Real-time train tracking UX  
 - Clean component-based mobile UI  
 
-## ❗ Problems & Solutions
+##  Problems & Solutions
 
 ### Problem 1: Long booking process
 **Solution:** Combine search → seat → payment into a guided step-by-step flow.
@@ -125,7 +125,7 @@ A complete UX/UI case study and high-fidelity mobile app design for a train tick
 
 ---
 
-## 🎨 Design System
+## Design System
 
 | Type        | Color Preview | Hex      |
 |-------------|---------------|---------|
