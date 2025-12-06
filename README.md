@@ -49,7 +49,7 @@ The design includes 30+ high-fidelity screens with a clean, modern style.
 
 ---
 ## SystenOverview
-![SystemOverview](screenshots/SyetenOverview.png)
+![SystemOverview](screenshots/SystemOverview.png)
 ---
 
 ## UI Screenshots
