@@ -48,8 +48,7 @@ The design includes 30+ high-fidelity screens with a clean, modern style.
 4. Users can zoom/pan the train route and close the route once tracking is complete.
 
 ---
-## SystenOverview
-![SystemOverview](screenshots/SystemOverview.png)
+## Userflow
 ---
 
 ## UI Screenshots
