@@ -19,6 +19,35 @@ The design includes 30+ high-fidelity screens with a clean, modern style.
 
 ---
 
+## Flow Details
+
+### Registration
+1. Users open the app and select the **Register** menu.
+2. Enter personal information such as first and last name, ID card number, phone number, and password.
+3. The system verifies the information and creates an account.
+4. Upon registration, a confirmation message will be displayed and the user will be directed to the login page.
+
+### Booking
+1. Users select the **Book a Ticket** menu and specify the departure and destination time, travel date, and number of passengers.
+2. The system will search and display the **List of Trains** available for that day.
+3. Select the desired travel time/train.
+4. Enter individual passenger information (name, gender, nationality, etc.).
+5. Select a **Seat** via the interactive seating chart.
+6. Review the booking details on the **Booking Summary** page (route, seat, fare, tax).
+
+### Payment
+1. Select a payment method (the system uses QR Code PromptPay).
+2. The system will display a QR code and the payment amount. The user can scan it to complete the payment.
+3. Upon completion of the payment, the system will display the **Payment Successful** page or **Payment Failed** page if there is a problem.
+4. If successful, the system will generate and display a QR code for boarding the train.
+
+### Real-time Tracking (Train Tracking)
+1. Users can access the **Train Tracking** menu. **Train Tracking**
+2. Enter the train code/ticket number or select from my ticket list.
+3. The system will retrieve the GPS location and display a map with the real-time status of the train (arriving station and whether it is delayed).
+4. Users can zoom/pan the train route and close the route once tracking is complete.
+
+---
 ## User Flow
 
 ---
@@ -155,6 +184,8 @@ Below are core UI components extracted from the Figma prototype. All images are 
 | **Seat Legend** | ![Seat Legend](components/seat-legend.png) | แสดงไอคอนที่นั่งพร้อมสี: ว่าง, สำหรับชาย, สำหรับหญิง, สำหรับพระ, ไม่ว่าง |
 | **Navigation Bar** | ![Navigation Bar](/components/nav-bar.png) | แถบล่างสำหรับนำทางไปหน้า Home, My Tickets, Notifications, Account |
 | **QR Ticket Card** | ![QR Ticket](components/qr-ticket.png) | การ์ดตั๋วพร้อม QR code สำหรับสแกนขึ้นรถไฟ |
+
+
 
 
 
